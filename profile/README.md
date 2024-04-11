@@ -16,3 +16,10 @@
 <p align="center">
 Community-maintained stylistic/formatting ESLint rules for JavaScript and TypeScript.
 </p>
+
+<hr>
+
+<p align="center">
+This project is now part of the <a href="https://github.com/eslint-community">ESLint Community</a>, the repo is moved to <a href="https://github.com/eslint-community/eslint-stylistic">eslint-community/eslint-stylistic</a>
+</p>
+
